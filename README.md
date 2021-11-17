@@ -1,2 +1,2 @@
 # pythondemo
-Python联系的一些demo
+Python练习的一些demo
